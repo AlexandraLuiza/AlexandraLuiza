@@ -25,13 +25,27 @@ I'm Luiza, a passionate front-end developer and an enthusiast UI/UX designer. My
 <br>
 Coder Crafts: https://codercrafts.tech/
 <br>
+*Technology: <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40px" height="40px"></img> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40px" height="40px">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"> 
+<br>
 Save a life: https://save-a-life.netlify.app/
+<br>
+*Technologies: <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40px" height="40px">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"> 
 <br>
 Card Component: https://cardcomponentspreview.netlify.app/
 <br>
+*Technologies: <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40px" height="40px"> 
+<br>
 NFT preview card: https://previewcardfornft.netlify.app/
 <br>
+*Technologies:  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40px" height="40px"> 
+<br>
 FAQ Accordion: https://faqaccordionproject.netlify.app/
+<br>
+*Technologies: <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40px" height="40px"> 
+<br>
+German with friends: https://german-with-friends.netlify.app/home
+<br>
+*Technologies: <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40px" height="40px", <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40px" height="40px">
 
 ---
 **Stats**
