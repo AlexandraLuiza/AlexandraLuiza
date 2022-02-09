@@ -53,7 +53,7 @@ Card Component: https://cardcomponentspreview.netlify.app/
 <br>
 NFT preview card: https://previewcardfornft.netlify.app/
 <br>
-*Technologies*:  
+*Technologies*: 
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30px" height="30px"> </img> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30px" height="30px"> </img> 
@@ -61,7 +61,7 @@ NFT preview card: https://previewcardfornft.netlify.app/
 <br>
 FAQ Accordion: https://faqaccordionproject.netlify.app/
 <br>
-*Technologies*:  
+*Technologies*: 
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30px" height="30px"> </img> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30px" height="30px"> </img> 
