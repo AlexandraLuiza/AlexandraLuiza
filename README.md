@@ -22,6 +22,7 @@ I'm Luiza, a passionate front-end developer and an enthusiast UI/UX designer. My
 ---
 **Projects**
 <br>
+<br>
 Coder Crafts: https://codercrafts.tech/
 <br>
 Save a life: https://save-a-life.netlify.app/
