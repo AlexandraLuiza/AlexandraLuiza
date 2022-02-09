@@ -20,6 +20,19 @@ I'm Luiza, a passionate front-end developer and an enthusiast UI/UX designer. My
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"> 
 
 ---
+**Projects**
+<br>
+Coder Crafts: https://codercrafts.tech/
+<br>
+Save a life: https://save-a-life.netlify.app/
+<br>
+Card Component: https://cardcomponentspreview.netlify.app/
+<br>
+NFT preview card: https://previewcardfornft.netlify.app/
+<br>
+FAQ Accordion: https://faqaccordionproject.netlify.app/
+
+---
 **Stats**
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandraluiza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"</img></p>
 
