@@ -26,7 +26,7 @@ I'm Luiza, a passionate front-end developer and an enthusiast UI/UX designer. My
 <br>
 Coder Crafts: https://codercrafts.tech/
 <br>
-*Technology*: 
+*Technologies*: 
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30px" height="30px"></img> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30px" height="30px"> </img> 
