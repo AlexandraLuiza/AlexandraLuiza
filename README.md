@@ -74,7 +74,14 @@ German with friends: https://german-with-friends.netlify.app/home
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30px" height="30px"> </img> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30px" height="30px"></img> 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30px" height="30px"> </img> 
-
+<br>
+<br>
+Calculator: https://calculator-calc-react.netlify.app/ 
+<br>
+*Technologies:*
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30px" height="30px"> </img> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30px" height="30px"></img> 
+<img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30px" height="30px"> </img> 
 ---
 **Stats**
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandraluiza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"</img></p>
