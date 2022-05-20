@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandraluiza/)
 
-I'm Luiza, a passionate front-end developer and an enthusiast UI/UX designer. My passion for design and sofware lies with the wish to help people create their dream websites.
+I'm Luiza, a passionate front-end developer and an enthusiast UI/UX designer. My passion for design and software lies with the wish to help people create their dream websites.
 
 ---
 **🎨 Design tools**
