@@ -4,6 +4,13 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
 
 ---
 
+### 🤝 Connect with Me
+I’m always open to connecting with fellow developers, designers, and potential collaborators. Feel free to reach out if you’re interested in collaborating or exploring job opportunities together. Let’s connect!
+
+[![LinkedIn](https://img.shields.io/badge/-Alexandra%20Luiza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandraluiza/)
+
+---
+
 ### 🛠 Technologies & Tools
 <table>
   <tr>
@@ -55,10 +62,3 @@ I’m driven by:
 - **Collaboration**: I believe great ideas come from shared minds, and I enjoy working with teams to create impactful solutions.
 - **Initiative**: Taking the first step to find solutions is what I strive for in every project.
 - **Scalability**: Building applications that are prepared for future growth and high performance is a key focus for me.
-
----
-
-### 🤝 Connect with Me
-I’m always open to connecting with fellow developers, designers, and potential collaborators. Feel free to reach out if you’re interested in collaborating or exploring job opportunities together. Let’s connect!
-
-[![LinkedIn](https://img.shields.io/badge/-Alexandra%20Luiza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandraluiza/)
