@@ -8,7 +8,7 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
 - **Languages & Frameworks**: React, Tailwind CSS, TypeScript
 - **Databases**: MS-SQL, PostgreSQL, PL/SQL
 - **Design Tools**: Figma
-- **Project Management**: Agile methodologies
+- **Project Management**: Jira, Confluence
 
 ---
 
