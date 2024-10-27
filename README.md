@@ -5,10 +5,43 @@ I'm a **Front-End Developer** with a passion for creating intuitive and engaging
 ---
 
 ### 🛠 Technologies & Tools
-- **Languages & Frameworks**: React, Tailwind CSS, TypeScript
-- **Databases**: MS-SQL, PostgreSQL, PL/SQL
-- **Design Tools**: Figma
-- **Project Management**: Jira, Confluence
+<table>
+  <tr>
+    <td valign="top"><strong>Languages & Frameworks</strong>
+ <p align="left">
+  <!-- First row -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React icon" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS icon" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript icon" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS icon" />
+</p>
+
+<p align="left">
+  <!-- Second row -->
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS icon" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap icon" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white" alt=".NET Core icon" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C# icon" />
+</p>
+      <strong>Databases</strong>
+      <p align="left">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL icon" />
+        <img src="https://img.shields.io/badge/MS--SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MS-SQL icon" />
+        <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white" alt="PL/SQL icon" />
+      </p>
+    </td>
+    <td valign="top"><strong>Design Tools</strong>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma icon" />
+      </p>
+      <strong>Project Management</strong>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira icon" />
+        <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence icon" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
