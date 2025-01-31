@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Alexandra Luiza
 
-I'm a **Front-End Developer** with a passion for creating intuitive and engaging user interfaces. I have experience working with modern front-end frameworks and tools, as well as design prototyping in Figma. My approach is grounded in agile project management, and I'm continuously expanding my skill set—currently diving into **.NET Core** to expand my backend knowledge.
+I'm a **Front-End Developer** with a passion for creating intuitive and engaging user interfaces. I have experience working with modern front-end frameworks and tools, as well as design prototyping in Figma. My approach is grounded in agile project management, and I'm continuously expanding my skills.
 
 ---
 
